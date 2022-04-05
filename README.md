@@ -1,5 +1,5 @@
 # Screenshot
-![output.gif](https://github.com/anhsirk0/slider-login-signup/blob/master/output.gif)
+![output.gif](https://github.com/anhsirk0/tailwind-navbar/blob/master/output.gif)
 
 ## Inspired from this video (mine is still incomplete)
 https://www.youtube.com/watch?v=ArTVfdHOB-M
